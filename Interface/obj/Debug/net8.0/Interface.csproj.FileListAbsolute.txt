@@ -1,0 +1,11 @@
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/bin/Debug/net8.0/Interface.deps.json
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/bin/Debug/net8.0/Interface.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/bin/Debug/net8.0/Interface.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/refint/Interface.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/ref/Interface.dll

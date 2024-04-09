@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "patt/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0"
+        },
+        "runtime": {
+          "patt.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
+      },
+      "Interface/1.0.0": {
+        "runtime": {
+          "Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "patt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
