@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "ClassLibrary1/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Interface": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ClassLibrary1.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ClassLibrary1.dll": {}
-        }
-      },
       "Interface/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -24,24 +11,56 @@
         "runtime": {
           "bin/placeholder/Interface.dll": {}
         }
+      },
+      "Plugin1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Plugin1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Plugin1.dll": {}
+        }
+      },
+      "Plugin2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Plugin2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Plugin2.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "ClassLibrary1/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibrary1/ClassLibrary1.csproj",
-      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
-    },
     "Interface/1.0.0": {
       "type": "project",
       "path": "../Interface/Interface.csproj",
       "msbuildProject": "../Interface/Interface.csproj"
+    },
+    "Plugin1/1.0.0": {
+      "type": "project",
+      "path": "../Plugin1/Plugin1.csproj",
+      "msbuildProject": "../Plugin1/Plugin1.csproj"
+    },
+    "Plugin2/1.0.0": {
+      "type": "project",
+      "path": "../Plugin2/Plugin2.csproj",
+      "msbuildProject": "../Plugin2/Plugin2.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ClassLibrary1 >= 1.0.0"
+      "Plugin1 >= 1.0.0",
+      "Plugin2 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -70,8 +89,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary1/ClassLibrary1.csproj": {
-              "projectPath": "/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary1/ClassLibrary1.csproj"
+            "/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/Plugin1.csproj": {
+              "projectPath": "/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/Plugin1.csproj"
+            },
+            "/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin2/Plugin2.csproj": {
+              "projectPath": "/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin2/Plugin2.csproj"
             }
           }
         }

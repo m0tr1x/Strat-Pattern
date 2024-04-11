@@ -8,23 +8,32 @@
     ".NETCoreApp,Version=v8.0": {
       "patt/1.0.0": {
         "dependencies": {
-          "ClassLibrary1": "1.0.0"
+          "Plugin1": "1.0.0",
+          "Plugin2": "1.0.0"
         },
         "runtime": {
           "patt.dll": {}
         }
       },
-      "ClassLibrary1/1.0.0": {
+      "Interface/1.0.0": {
+        "runtime": {
+          "Interface.dll": {}
+        }
+      },
+      "Plugin1/1.0.0": {
         "dependencies": {
           "Interface": "1.0.0"
         },
         "runtime": {
-          "ClassLibrary1.dll": {}
+          "Plugin1.dll": {}
         }
       },
-      "Interface/1.0.0": {
+      "Plugin2/1.0.0": {
+        "dependencies": {
+          "Interface": "1.0.0"
+        },
         "runtime": {
-          "Interface.dll": {}
+          "Plugin2.dll": {}
         }
       }
     }
@@ -35,12 +44,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ClassLibrary1/1.0.0": {
+    "Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Interface/1.0.0": {
+    "Plugin1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Plugin2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

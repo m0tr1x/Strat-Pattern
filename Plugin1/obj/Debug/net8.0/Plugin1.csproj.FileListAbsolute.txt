@@ -1,0 +1,16 @@
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/bin/Debug/net8.0/Plugin1.deps.json
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/bin/Debug/net8.0/Plugin1.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/bin/Debug/net8.0/Plugin1.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/bin/Debug/net8.0/Interface.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/bin/Debug/net8.0/Interface.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.csproj.AssemblyReference.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.AssemblyInfoInputs.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.AssemblyInfo.cs
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.csproj.CoreCompileInputs.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.sourcelink.json
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.csproj.CopyComplete
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/refint/Plugin1.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/Plugin1.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Plugin1/obj/Debug/net8.0/ref/Plugin1.dll

@@ -1,0 +1,16 @@
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/bin/Debug/net8.0/ClassLibrary2.deps.json
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/bin/Debug/net8.0/ClassLibrary2.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/bin/Debug/net8.0/ClassLibrary2.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/bin/Debug/net8.0/Interface.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/bin/Debug/net8.0/Interface.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.csproj.AssemblyReference.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.AssemblyInfoInputs.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.AssemblyInfo.cs
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.csproj.CoreCompileInputs.cache
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.sourcelink.json
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.csproj.CopyComplete
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/refint/ClassLibrary2.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/ClassLibrary2/obj/Debug/net8.0/ref/ClassLibrary2.dll

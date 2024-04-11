@@ -12,9 +12,12 @@
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/obj/Debug/net8.0/patt.pdb
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/obj/Debug/net8.0/patt.genruntimeconfig.cache
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/obj/Debug/net8.0/ref/patt.dll
-/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/ClassLibrary1.dll
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/Interface.dll
-/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/ClassLibrary1.pdb
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/Interface.pdb
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/obj/Debug/net8.0/patt.csproj.AssemblyReference.cache
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/obj/Debug/net8.0/patt.csproj.CopyComplete
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/obj/Debug/net8.0/patt.sourcelink.json
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/Plugin1.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/Plugin2.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/Plugin1.pdb
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/patt/bin/Debug/net8.0/Plugin2.pdb

@@ -9,3 +9,4 @@
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/refint/Interface.dll
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.pdb
 /Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/ref/Interface.dll
+/Users/mtrx/Desktop/УНИВЕР/Шаблоны/patt/Interface/obj/Debug/net8.0/Interface.sourcelink.json

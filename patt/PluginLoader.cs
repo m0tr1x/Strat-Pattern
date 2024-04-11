@@ -27,6 +27,7 @@ namespace patt
                             var plugin = Activator.CreateInstance(type) as IPlugin; // Создание экземпляра плагина
                             if (plugin is not null)
                             {
+                                plugin.Name = Path.GetFileNameWithoutExtension(file);
                                 plugin.Start();
                                 Plugins.Add(plugin);
                             }

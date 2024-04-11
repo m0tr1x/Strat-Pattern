@@ -10,13 +10,18 @@ class Program
         
         PluginLoader pluginLoader = new PluginLoader();
         List<IPlugin> plugins = pluginLoader.LoadPlugins(currentDirectory);
-
-        // Выполнение плагинов по запросу пользователя
+        
+        //Вывод всех доступных плагинов
+        Console.WriteLine("\nList of avaliable plugins:");
         foreach (IPlugin plugin in plugins)
         {
-            plugin.Execute();
+            Console.WriteLine(plugin.Name);
         }
-
+        Console.WriteLine("\n Choose your plugin:");
+        var currentPlugin = plugins.Find(x => x.Name == Console.ReadLine());
+        if(currentPlugin != null) currentPlugin.Start();
+        else Console.WriteLine("Plugin not found");
+        Console.WriteLine("\n");
         foreach (IPlugin plugin in plugins)
         {
             plugin.Stop();
