@@ -19,9 +19,10 @@ class Program
         }
         Console.WriteLine("\n Choose your plugin:");
         var currentPlugin = plugins.Find(x => x.Name == Console.ReadLine());
+        
         if(currentPlugin != null) currentPlugin.Start();
         else Console.WriteLine("Plugin not found");
-        Console.WriteLine("\n");
+        
         foreach (IPlugin plugin in plugins)
         {
             plugin.Stop();
